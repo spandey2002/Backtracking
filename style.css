@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+p{
+    font-family: sans-serif;
+}
+.blc{
+    color: black;
+}
+pre{
+    color: brown;
+}
+.spe, .spe td{
+    border: 1px solid black;
+}
+.bg{
+    background-color: #cccccc;
+}
+table > td{
+    border: 1px solid black
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
